@@ -451,7 +451,7 @@ def load_text_files(data_dir: str) -> Dict[str, str]:
 def main():
     """Main function to demonstrate the text similarity pipeline"""
     
-    # Configuration - use path relative to script location
+    # Configuration: use path relative to script location
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(script_dir, 'data')
     k_shingle = 5
