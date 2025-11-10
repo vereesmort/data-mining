@@ -1,0 +1,45 @@
+At the dot-com dawn of the millennium, a celebrity stock picker who predicted the market’s historic surge wondered why so much of the talk about “unprecedented” company valuations should be tinged with a sense of imminent doom.
+
+“If this has never happened before,” he mused, “how do you know it will end badly?”
+
+A few months later, it ended badly. A correction punctured the wild-eyed optimism that had inflated internet stocks, eventually wiping out tens of thousands of jobs.
+
+But a startup called Google endured. It even managed to sell shares to the public by 2004, after cutting its price range. Amazon, once best known as an online bookseller, saw its own stock price collapse before diversifying into things like a cloud-computing business. Microsoft also went big on the cloud, as part of the 14-year process of rebuilding its share price post-bubble.
+
+In the past few years alone, these three companies have tacked on an extra $5 trillion in collective market value. Not coincidentally they’re expected to help pioneer the next monumental phase of technological progress, by turning artificial-intelligence hype into reality.
+
+In the dot-com days, it was the fleeting price of a stock that was often unprecedented. Now, it’s the amount of money being poured into the physical things necessary to make AI work – like data centers or machines for printing microscopic designs on semiconductors. Unprecedented outlays, unprecedented potential advances in research and productivity.
+
+So much apparent lack of precedent has planted a queasy feeling in stomachs. To echo that legendary stock picker: if this is all truly unprecedented, we don’t know where it ends. Could Nvidia, maker of chips that serve as singular engines needed to train AI models, continue to be worth more than the entire stock exchange in most countries? According to one recent analysis, the company now literally has too much money on hand.
+
+The keyword “AI bubble” has been percolating in the content feeds of the World Economic Forum’s Strategic Intelligence platform – tracing a more glaring path than “AI bust,” but less pointed than “AI reckoning.”
+
+John-David Lovelock, Distinguished VP Analyst at Gartner, previously predicted an extinction event among GenAI model providers as the market will only sustain a few independent vendors with the capital to deliver the compute these models demand. However, he told ua mergers, divestitures, and other investments would mean the money stays in the market. "It's not the indication of a bubble," he said.
+
+Back in June, Gartner predicted that 40 percent of agentic AI projects would be cancelled by 2027. At around the same time, a study from Carnegie Mellon University showed AI agents only succeeding 30 to 35 percent of the time on multi-step tasks.
+
+Others have been more circumspect over the likelihood of a market correction in AI.
+
+The Bank of England warned of a sudden correction in the financial markets due to the value of tech and AI stocks, citing financial metrics comparable to the dotcom bubble of the late 1990s that led to a crash in early 2000. Equity markets might be "particularly exposed should expectations around the impact of AI become less optimistic," the Financial Policy Committee said.
+
+Consultancy Bain & Company estimated that current spending trajectories on AI datacenters – about $500 billion a year – would require the tech sector to generate $2 trillion in annual AI sales by 2030.
+
+Forrester also predicts that, despite the promise of "vibe coding," the time to fill developer positions is set to double. The research company said that, as organizations integrate senior developers with AI for "superior engineering outcomes," they would look for candidates who have strong foundations in system architecture.
+
+Some of the world's biggest tech giants reported quarterly earnings on Wednesday - with a mixed bag of results as fears grow that a bubble is forming in artificial intelligence.
+
+Microsoft revealed that its spending on AI infrastructure hit almost $35bn (£26.5bn) in the three months to the end of September, a sharp rise compared with the year before.
+
+Despite revenue jumping 18% and net income rising 12%, shares plunged by close to 4% in after-hours trading, with investors concerned about the mounting costs of sustaining the boom.
+
+Microsoft's vice president of investor relations Jonathan Neilson said: "We continue to see demand which exceeds the capacity we have available.
+
+"Our capital expenditure strategy remains unchanged in that we build against the demand signal we're seeing."
+
+Big Tech is facing increasing pressure to show returns on the massive AI investments they're making, against a backdrop of soaring valuations and limited evidence of productivity gains.
+
+Microsoft became the world's second most valuable company this week thanks to its 27% stake in OpenAI, the creator of ChatGPT.
+
+Its market capitalisation surged beyond $4trn (£3trn) at one point, but that psychologically significant threshold is now in doubt because of recent selloffs.
+
+Alphabet makes history

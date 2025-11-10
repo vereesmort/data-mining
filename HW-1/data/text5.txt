@@ -1,0 +1,43 @@
+A core question being asked in financial circles today: Why is AI suddenly being called a bubble, and what kind of financial game are these AI companies actually playing?
+
+Artificial Intelligence is often portrayed as the future — a world-changing force growing at lightning speed. But behind the glowing headlines, record-breaking stock prices, and billion-dollar valuations, some experts believe the AI boom might be less about innovation and more about clever financial loops. Many now warn we could be living through what they call the “AI Bubble.”
+
+What Makes a Bubble?
+
+A financial bubble happens when prices rise significantly beyond what things are actually worth and not because of real growth, but because everyone is afraid of missing out (FOMO).
+
+That’s exactly what’s happening in the world of AI right now. Some AI startups that still lose money are being valued at hundreds of billions of dollars. In the private market, these startups’ combined valuations have jumped by nearly $1 trillion in just one year.
+
+To put it simply, investors are betting as if every AI startup will be “the next big thing.”
+
+A few years ago, a company earning $5 million a year might have been valued around $250 million. Today, similar startups are being valued at over $500 million or more, which is 100 times their actual annual revenue. This behaviour, where the market invests as if every company is guaranteed to be an outlier success, is a classic marker of a potential bubble.
+
+When Companies Fund Themselves
+
+Here’s where things get really interesting — and a little strange.
+
+A handful of tech giants are now caught in what experts call a “circular funding loop.” In simple terms, big companies are investing in smaller AI startups that, in turn, spend that money right back with the same big companies.
+
+For example, Nvidia- the world’s leading supplier of AI chips, not only sells the high-end chips needed to power AI systems but also invests in the very startups that buy those chips, like OpenAI.
+
+So, Nvidia might invest billions in OpenAI. OpenAI then uses that investment to buy Nvidia’s chips. The result? Nvidia’s sales skyrocket, and OpenAI’s valuation jumps too. It looks like both are doing great — but in reality, they’re feeding off each other’s money.
+
+This kind of closed-loop investing makes both companies look stronger on paper than they might actually be — creating what some analysts call a “financial echo chamber.”
+
+The Profitability Problem
+
+For all the hype, most AI companies still struggle to make consistent profits. Running massive AI models costs a lot, especially when serving millions of queries every day.
+
+To stay competitive, companies often spend heavily and even offer services for free just to attract more users. That’s great news for consumers right now, as we get to use AI tools at little or no cost.
+
+But for investors, it’s a different story. Many are starting to worry that the math doesn’t add up — that the spending is unsustainable and the revenue growth can’t keep pace with the excitement.
+
+Why Investors Should Be Careful
+
+The stock market tells the same story. A huge chunk of recent market gains has come from just a handful of AI-related companies like Nvidia, Microsoft, and others. If growth in AI spending slows down or investors lose confidence, those same stocks could fall sharply — and take the broader market down with them.
+
+Financial experts are now urging investors to stay cautious, diversify their portfolios, and avoid chasing hype. The AI boom might still have a long way to go, but that doesn’t mean every part of it is built on solid ground.
+
+The Big Question
+
+So, as the world races to embrace artificial intelligence, the big question remains: Are we witnessing the dawn of a new technological era or just a bubble waiting to burst?

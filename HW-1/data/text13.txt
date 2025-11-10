@@ -1,0 +1,48 @@
+
+At the heart of the note is a golden rule I’ve developed, which is that if you use large language model AI to create an application or a service, it can never be commercial.
+
+One of the reasons is the way they were built. The original large language model AI was built using vectors to try and understand the statistical likelihood that words follow each other in the sentence. And while they’re very clever, and it’s a very good bit of engineering required to do it, they’re also very limited.
+
+The second thing is the way LLMs were applied to coding. What they’ve learned from — the coding that’s out there, both in and outside the public domain — means that they’re effectively showing you rote learned pieces of code. That’s, again, going to be limited if you want to start developing new applications.
+
+And the third set of problems, in terms of how it’s built, is around the idea of scaling. There’s a real problem at a certain point in terms of how much you have to spend to improve them. I’d say it’s definite that (developers) have hit a scaling wall. Otherwise they’d be releasing demonstrably better and better models each time they came to came to market with a new product. And since ChatGPT 4 came out in March of 2023, they haven’t actually raised the bar significantly.
+
+Nightcap: What about the argument that ChatGPT, while not perfect, is capable of doing some low-level grunt work could increase productivity?
+
+Garran: There are certain bullsh*t jobs out there — some parts of management, consultancy, jobs where people don’t check if you’re getting it right or don’t know if you’ve got it right. So you can argue that you can replace bullsh*t with bullsh*t, and, yes, OK, I’m prepared to accept that you probably can, but that doesn’t really make it more broadly useful.
+
+Nightcap: So how should regular people think about all the huge sums of money churning through the industry?
+
+Garran: The AI ecosystem can’t really sustain itself. You have Nvidia making a ton of money … Anybody else — the data centers, the the LLM developers, the software developers that use LLMs — they’re all heavily loss-making.
+
+Consequently, to maintain the process, you need to have a continued funding, which is why it looks like a permanent funding tour. But despite all of this, there’s no obvious way that they actually turn this around to a profit. It’s hope over realistic expectation … When you run out of investors, then the whole thing is going to roll over.
+
+Nightcap: Are investors actually pulling back?
+
+Last night's results weren't all doom and gloom - with shares in Google's parent company surging by 6% in after-hours trading.
+
+Alphabet has also set out aggressive spending ambitions, but placated investors thanks to an impressive set of results that surpassed analysts' expectations.
+
+Total revenue for the quarter stood at a staggering $102.35bn (£77bn), with the search giant's advertising unit remaining robust despite growing competition.
+
+But concerns linger that Alphabet's dominance in search could be undermined by AI startups, with OpenAI recently unveiling a browser designed to rival Google Chrome.
+
+Hargreaves Lansdown's senior equity analyst Matt Britzman shrugged off this threat - and believes the company is "gearing up for long-term AI leadership".
+
+He said: "Alphabet just delivered its first-ever $100bn quarter, silencing the doubters with standout performances in both Search and Cloud.
+
+
+The co-founder of OpenAI, the founder and CEO of Meta, and the former chief executive of Google have all acknowledged that possibility in recent months.
+
+Large language models have exploded in popularity since ChatGPT launched in late 2022, and the stock market has rallied around the accompanying explosion in capital investment. (The Hearst Corp., which owns the Chronicle, has a partnership with OpenAI.)
+
+So while 40 million Americans are set to lose SNAP benefits during the government shutdown, and millions more have noticed their cost of living rise, the stock market keeps hitting all-time highs. 
+
+It’s reminding a lot of people of another time in recent history when stocks were very expensive and much of the market’s vigor relied on a single sector: the dot-com bubble of the late ’90s, which ended with a spectacular burst at the dawn of this century.
+
+We are not good at predicting when recessions will happen, and we can’t say for sure that we’re headed for one now, said John Y. Campbell, who teaches personal finance as a professor of economics at Harvard University and is the author of “Fixed: Why Personal Finance is Broken and How to Make It Work for Everyone.” But the prospect of AI enthusiasm cooling off would likely be bad news for the Bay Area, he said.
+
+“The whole national economy, but particularly the Bay Area, is becoming very very dependent on technology in general and AI in particular,” he said. “In the Bay Area, some people are directly exposed because they work for these companies. But even people who aren’t working for these companies are selling services and products to the people who do work for these companies.”
+
+Right now, about a third of the value of the S&P 500 is made up of the so-called “Magnificent 7”  tech sector stocks (Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, Tesla). Traditional financial wisdom says to never invest in the company you work for — but in a way, Campbell said, everyone in the Bay Area economy relies on the continued success of these companies. Sam Altman or Mark Zuckerberg might not be your boss, but your retirement could rest on the decisions they make. 
+

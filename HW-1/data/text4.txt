@@ -1,0 +1,49 @@
+At the dot-com dawn of the millennium, a celebrity stock picker who predicted the market’s historic surge wondered why so much of the talk about “unprecedented” company valuations should be tinged with a sense of imminent doom.
+
+“If this has never happened before,” he mused, “how do you know it will end badly?”
+
+A few months later, it ended badly. A correction punctured the wild-eyed optimism that had inflated internet stocks, eventually wiping out tens of thousands of jobs.
+
+But a startup called Google endured. It even managed to sell shares to the public by 2004, after cutting its price range. Amazon, once best known as an online bookseller, saw its own stock price collapse before diversifying into things like a cloud-computing business. Microsoft also went big on the cloud, as part of the 14-year process of rebuilding its share price post-bubble.
+
+In the past few years alone, these three companies have tacked on an extra $5 trillion in collective market value. Not coincidentally they’re expected to help pioneer the next monumental phase of technological progress, by turning artificial-intelligence hype into reality.
+
+In the dot-com days, it was the fleeting price of a stock that was often unprecedented. Now, it’s the amount of money being poured into the physical things necessary to make AI work – like data centers or machines for printing microscopic designs on semiconductors. Unprecedented outlays, unprecedented potential advances in research and productivity.
+
+So much apparent lack of precedent has planted a queasy feeling in stomachs. To echo that legendary stock picker: if this is all truly unprecedented, we don’t know where it ends. Could Nvidia, maker of chips that serve as singular engines needed to train AI models, continue to be worth more than the entire stock exchange in most countries? According to one recent analysis, the company now literally has too much money on hand.
+
+The keyword “AI bubble” has been percolating in the content feeds of the World Economic Forum’s Strategic Intelligence platform – tracing a more glaring path than “AI bust,” but less pointed than “AI reckoning.”
+
+Some sample headlines on that content: “Silicon Valley is at an inflection point,” and, in a nod to AI energy needs so insatiable they cannot be met by this planet alone, “The moon should be a computer.”
+
+Peaks in “AI bubble”-related content correspond to head-turning news events. There was the CEO of Chinese search giant Baidu comparing the current situation to the dot-com era in October 2024. Then Ray Dalio, an investor who predicted the global financial crisis, made his own connection between AI exuberance and the dot-com days in January. The gist of The AI Con, a book published in June, is probably evident from its title. By the time OpenAI CEO Sam Altman cited the beginnings of a bubble in August, it had lost some shock value.
+
+Some people don't think “bubble” is the right term, necessarily. The chief economist at Allianz submitted recently that a better framing of what’s happening now might be “a boom underpinned by fundamentals.”
+
+Yes, mind-numbing amounts are being spent by a relatively small group of companies, he wrote; but a key measure of what people are willing to pay for a stake in them relative to their potential future profits seems safely below what was registered in the dot-com days.
+
+It’s concentrated risk, though it could have a broad impact. If this small group of companies pushing genuine innovation forward nonetheless fall short, well-heeled investors backing them may dump their stocks at a loss and start feeling skint. That could hinder the kind of consumer spending that can fuel an entire economy’s growth.
+
+Tech stocks, tulips and fairy tales
+A desire for pretty flowers had created a different kind of concentrated risk by 1637. That’s when overheated demand for tulips among wealthy collectors in the Netherlands finally collapsed.
+
+The temporary mania in what was then the richest country in the world eventually made some bulbs more costly than a townhouse. People wanted the still-rare flowers as a means to mark their status. Buyers at high prices always seemed to be able to find someone willing to pay even more, until they suddenly couldn’t.
+
+Still, it probably wasn’t as bad as we tend to collectively remember. A historian who combed through Dutch archives has reported that only a few dozen people paid more than 300 guilders for a bulb – an amount that a master craftsman could make in a year, but nowhere near townhouse territory. When the crash came, it was contained among a relatively small population of the well-to-do.
+
+When the bottom fell out
+Dutch price declines per tulip bulb post-bubble
+
+A popular book published a couple of centuries later told a darker story. It solidified the image of a Dutch society driven to the brink by its misplaced fervor for patterned petals. Every investment boom since has been liable to draw a comparison.
+
+Those comparisons can feel like a Grimm’s fairy tale, meant to instill a healthy fear of things too good to be true, in people liable to question the value in anything that feels bubble-like – and do things like equate a share in Nvidia to a 17th-century tulip bulb.
+
+Some reasons for scepticism are painfully obvious.
+
+AI fatigue, induced by a sense that more time must be spent sorting through new productivity tools than is being saved, is real. For many people, the biggest change at work to date might be the time needed to clean up automated workslop.
+
+Meanwhile companies are racking up more debt to stay at AI’s forefront. It’s not just investors like retirement funds with a lot at stake. Even if the cadre of big companies at its center weather yet another burst bubble, there are layers of smaller firms, shareholders, and livelihoods likely to vanish. Dormant data centers could become the new abandoned shopping malls.
+
+It's worth noting that the fact that so much shopping did shift from malls to the internet points to what was real in the midst of the dot-com delirium. A lot of fanciful ideas and companies eventually went away, but we’re more online now than ever. The same kind of distillation might play out for AI.
+
+No two bubbles are exactly alike. The most important thing is what remains after they pop.

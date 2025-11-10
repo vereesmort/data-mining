@@ -1,0 +1,46 @@
+Some of the world's biggest tech giants reported quarterly earnings on Wednesday - with a mixed bag of results as fears grow that a bubble is forming in artificial intelligence.
+
+Microsoft revealed that its spending on AI infrastructure hit almost $35bn (£26.5bn) in the three months to the end of September, a sharp rise compared with the year before.
+
+Despite revenue jumping 18% and net income rising 12%, shares plunged by close to 4% in after-hours trading, with investors concerned about the mounting costs of sustaining the boom.
+
+Microsoft's vice president of investor relations Jonathan Neilson said: "We continue to see demand which exceeds the capacity we have available.
+
+"Our capital expenditure strategy remains unchanged in that we build against the demand signal we're seeing."
+
+Big Tech is facing increasing pressure to show returns on the massive AI investments they're making, against a backdrop of soaring valuations and limited evidence of productivity gains.
+
+Microsoft became the world's second most valuable company this week thanks to its 27% stake in OpenAI, the creator of ChatGPT.
+
+Its market capitalisation surged beyond $4trn (£3trn) at one point, but that psychologically significant threshold is now in doubt because of recent selloffs.
+
+Alphabet makes history
+
+Last night's results weren't all doom and gloom - with shares in Google's parent company surging by 6% in after-hours trading.
+
+Alphabet has also set out aggressive spending ambitions, but placated investors thanks to an impressive set of results that surpassed analysts' expectations.
+
+Total revenue for the quarter stood at a staggering $102.35bn (£77bn), with the search giant's advertising unit remaining robust despite growing competition.
+
+But concerns linger that Alphabet's dominance in search could be undermined by AI startups, with OpenAI recently unveiling a browser designed to rival Google Chrome.
+
+Hargreaves Lansdown's senior equity analyst Matt Britzman shrugged off this threat - and believes the company is "gearing up for long-term AI leadership".
+
+He said: "Alphabet just delivered its first-ever $100bn quarter, silencing the doubters with standout performances in both Search and Cloud.
+
+"AI Overviews and AI Mode are clearly resonating with users, helping to ease fears that Google's core search business is under threat from generative AI.
+
+"With ChatGPT's recent browser demo falling short of a game-changer, Google looks well-placed to put up a strong defence as gatekeeper to the internet."
+
+Meta faces a mauling
+
+Meta - the parent company of Facebook, Instagram, and WhatsApp - saw its shares tumble by as much as 10% in after-hours trading.
+
+Mark Zuckerberg's tech empire anticipates "notably larger" capital expenses next year as it ramps up investments in AI and goes on a hiring spree for top talent.
+
+Net income in the third quarter stood at $2.7bn (£2bn) and suffered an eye-watering $16bn (£12bn) hit because of Donald Trump's "Big Beautiful Bill".
+
+Meta was late to the party on AI but has now doubled down on this still-nascent technology - setting an ambition to achieve superintelligence, a milestone where machines could theoretically outthink humans.
+
+The social networking giant continues to benefit from its massive user base, and expects fourth-quarter revenues of up to $59bn (£44bn).
+

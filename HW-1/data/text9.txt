@@ -1,0 +1,28 @@
+ai-pocalypse Bubble, meet pin. Large organizations are set to defer a quarter of planned AI spending from next year until 2027, forcing a market correction.
+
+This is according to research firm Forrester, which says AI is set to face a reckoning because the gap between inflated vendor promises and the value delivered to enterprises is widening.
+
+Fewer than one-third of decision-makers were able to make the connection between the value of AI and their corporation's financial growth, it found. Next year CEOs are likely to listen to CFOs to approve AI investments based on their returns in 2026.
+
+This will mean 25 percent of planned spending is put off until 2027 as financial rigor slows production deployments, Forrester predicts.
+
+"The disconnect between the inflated promises of AI vendors and the value created for enterprises will force a market correction. As demand slips, utilization will lag, cost per useful inference will remain high, and providers will chase fill rate with discounts and oversized commitments," the analyst's report says.
+
+"Savvy buyers should capitalize on this supply side frailty by manipulating the levers of AI cost while refocusing investment on top and bottom-line impact."
+
+Sharyn Leaver, chief research officer at Forrester, said: "In 2026, the AI hype period ends as the pressure to deliver real, measurable results from secure AI initiatives intensifies. As the era of volatility continues, tech and security leaders will be called upon to recalibrate investments under tighter financial scrutiny and governance while navigating increasingly complex geopolitical and economic risks."
+
+Forrester rival Gartner has predicted worldwide spending on AI to hit nearly $1.5 trillion in 2025, including $268 billion on optimized servers. The figures include investments from the tech industry itself.
+
+John-David Lovelock, Distinguished VP Analyst at Gartner, previously predicted an extinction event among GenAI model providers as the market will only sustain a few independent vendors with the capital to deliver the compute these models demand. However, he told ua mergers, divestitures, and other investments would mean the money stays in the market. "It's not the indication of a bubble," he said.
+
+Back in June, Gartner predicted that 40 percent of agentic AI projects would be cancelled by 2027. At around the same time, a study from Carnegie Mellon University showed AI agents only succeeding 30 to 35 percent of the time on multi-step tasks.
+
+Others have been more circumspect over the likelihood of a market correction in AI.
+
+The Bank of England warned of a sudden correction in the financial markets due to the value of tech and AI stocks, citing financial metrics comparable to the dotcom bubble of the late 1990s that led to a crash in early 2000. Equity markets might be "particularly exposed should expectations around the impact of AI become less optimistic," the Financial Policy Committee said.
+
+Consultancy Bain & Company estimated that current spending trajectories on AI datacenters – about $500 billion a year – would require the tech sector to generate $2 trillion in annual AI sales by 2030.
+
+Forrester also predicts that, despite the promise of "vibe coding," the time to fill developer positions is set to double. The research company said that, as organizations integrate senior developers with AI for "superior engineering outcomes," they would look for candidates who have strong foundations in system architecture.
+
