@@ -3,7 +3,7 @@
 This project implements text similarity technique using shingling, MinHashing, and Locality Sensitive Hashing (LSH).
 
 ## Requirements
-
+- Download the data from: https://github.com/vereesmort/data-mining.git (located in data-mining/HW-1/data)
 - Python 3.11 or higher
 - No external dependencies required (uses only the Python standard library)
 
